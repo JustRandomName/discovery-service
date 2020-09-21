@@ -11,5 +11,4 @@ public class DiscoveryServiceApplication {
     public static void main(final String[] args) {
         run(DiscoveryServiceApplication.class, args);
     }
-
 }
